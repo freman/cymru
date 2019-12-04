@@ -6,7 +6,7 @@
 
 ![](https://github.com/freman/cymru/workflows/Test/badge.svg) [![codecov](https://codecov.io/gh/freman/cymru/branch/master/graph/badge.svg)](https://codecov.io/gh/freman/cymru) [![Go Report Card](https://goreportcard.com/badge/github.com/freman/cymru)](https://goreportcard.com/report/github.com/freman/cymru) [![license](https://img.shields.io/github/license/freman/cymru.svg?maxAge=2592000)](LICENSE.md)
 
-[![Documentation](https://godoc.org/github.com/freman/cymru?status.svg)](http://godoc.org/github.com/freman/cymru)
+[![Documentation](https://godoc.org/github.com/freman/cymru?status.svg)](https://godoc.org/github.com/freman/cymru)
 
 ## Packages
 
